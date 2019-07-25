@@ -1,0 +1,14 @@
+{
+  "webDva": {
+    "place": "jeffery021121/webDva",
+    "branch": ""
+  },
+  "redux-thunk-loading": {
+    "place": "jeffery021121/redux-thunk-loading",
+    "branch": ""
+  },
+  "redux-thunk-loading-exampleDemo": {
+    "place": "jeffery021121/redux-thunk-loading-exampleDemo",
+    "branch": ""
+  }
+}
